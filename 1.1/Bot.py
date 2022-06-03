@@ -35,4 +35,4 @@ async def hello2(ctx):
     view.add_item(item=url)
     await ctx.reply(embed=emb, view=view)
     
-client.run("OTc3NjE0Mzg2Mjg4MDA1MTQw.GsgFQj.XqMBLFOmZ21xftWUNX4rI2EsWiI7ho-PmYVKmk")
+client.run("TOKEN")
